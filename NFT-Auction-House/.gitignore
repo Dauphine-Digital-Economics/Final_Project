@@ -1,0 +1,10 @@
+# Metamask private key
+.env
+
+# npm files
+node_modules/
+package-lock.json
+
+# Hardhat build files
+artifacts/
+cache/
