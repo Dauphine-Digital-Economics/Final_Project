@@ -2,11 +2,7 @@
 
 The final project of this course is to create your own dApp. You may chose to create any app, using any development framework, library, or other code support tool of your choice. If you need idea inspirations, please refer to [Lecture 1](https://github.com/Dauphine-Digital-Economics/Lectures/blob/main/week1/Lecture1.pdf).
 
-You will deliver both an oral presentation as well as submit a written document. Please see the Deliverables section for more details of what is expected. The groups for the final project is the same as presented in Lecture 1, but here they are again:
-
-* Group 1 - Laetitia, Jiawei, Cédric
-* Group 2 - Yichen, Margot, Aizhan
-* Group 3 - Valentin, Léa, Yanming
+You will deliver both an oral presentation as well as submit a written document. Please see the Deliverables section for more details of what is expected.
 
 ### Business and Technical Requirements
 
@@ -23,14 +19,6 @@ You must be able to successfully deploy your dApp to the Celo Alfajores testnet.
 
 ### Deliverables
 ##### Oral Presentation
-
-On 12 April, each group will deliver a (maximum) 30min oral presentation of their dApp. The time breakdown are as follows:
-
-* 5pm - 5:30pm | Group 1 presents
-* 5:30pm - 5:40pm | Break
-* 5:40pm - 6:10pm | Group 2 presents
-* 6:10pm - 6:20pm | Break
-* 6:20pm - 6:50pm | Group 3 presents
 
 The presentation should be maximum 25min with 5min for questions. Please structure your presentation as follows:
 
