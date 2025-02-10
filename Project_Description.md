@@ -1,10 +1,11 @@
-# Final Project Description and Details
+# Final Exam: Project + Course Questions
 
 The final project of this course is to create your own dApp. You may use any library, extension and support tool of your choice. If you need idea inspirations, please refer to the [Syllabus](https://github.com/Dauphine-Digital-Economics/Lectures/blob/main/week1/Overview%20and%20Syllabus.pdf).
 
-You will deliver both an oral presentation as well as submit a written document. Please see the Deliverables section for more details of what is expected.
+You must deliver both an oral presentation as well as submit your slides.
 
-### Technical Requirements
+### Final Project
+##### Technical Requirements
 
 Imagine that you will be presenting your dApp to some investors and your dApp has the potential to be the next startup in the Web3 space. You can create something entirely original and never seen before in the industry or you may take an existing use case and make some improvements. Do some market research which will help you understand your project's differentiating factor and shape the functionalities of your dApp.
 
@@ -18,10 +19,9 @@ Once you have decided on your project idea and functionalities, please build a w
 
 You must be able to successfully deploy your code to the Sepolia testnet. Remember to stock up on testnet tokens!
 
-### Deliverables
 ##### Oral Presentation
 
-The presentation should be maximum 25min with 5min for questions. Please structure your presentation as follows:
+The presentation should be maximum 25min with 5min for questions. Please respect the time limit and structure your presentation as follows:
 
 * Elevator pitch of dApp (Idea description, market analysis, target audience)
 * Technical overview with competitive analysis
@@ -33,11 +33,6 @@ The presentation should be maximum 25min with 5min for questions. Please structu
   * Steps taken to ensure clean, readable code. Did you follow any coding conventions?
 * Product demo on Etherscan using Metamask, Scripts, Cast, any tool of your choice.
 
-##### Written Submission
-You are writing a proposal for a grant, which if accepted, will award or crowdfund enough money to implement your idea. Please produce a proposal of any length, 500 words is recommended, which contains the following sections:
+### Oral exam of course content
 
-* Short description of your project idea (similar to the oral elevator pitch)
-* List team members in bullet points
-* A description of the technical specification, with diagrams and code snippets
-* Project SDLC process milestones/actions of what you have achieved now, and extrapolating into the future, until the point where you are ready to release your dApp to the market (eg. add a new feature, user testing, security auditing and CI/CD setup)
-* A timeline (Gantt charts preferred) of the previously described steps with how much funding you are requesting for each step (Some examples, You can hire a developer to make new features for you or you can say you want to do it yourself and be paid for your time or hire a Smart Contract auditing company, etc).
+The oral exam covers content on any lecture slide. You may chose to answer as a team or individually. As a team, question may be answered by any member but all members will receive the same grade. For the individual option, each team member will be asked to answer 1 or 2 questions and grades are individually assigned. The oral examination will last 20min.
